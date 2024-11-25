@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: blog.qmd
+        text: My blog
+      - href: research.qmd
+        text: Research
+      - href: files/Aoqi_Xie_CV.pdf
+        text: CV
+      - icon: github
+        href: https://github.com/
+format:
+  html:
+    theme: Quartz
+    css: styles.css
+
+editor: visual
+
+execute:
+  freeze: auto
+

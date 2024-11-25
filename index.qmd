@@ -1,0 +1,26 @@
+---
+title: "Aoqi Xie"
+image: images/zk.JPG
+about:
+  template: jolla
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aoqi-xie/
+    - icon: github
+      text: Github
+      href: https://github.com/aoqix
+---
+
+I am a PhD student in Biostatistics at Dalla Lana School of Public Health, University of Toronto
+
+## Education
+
+University of Toronto \| PhD, Biostatistics, 2024
+
+University of Toronto \| MSc, Biostatistics, 2022-2024
+
+University of Toronto \| BSc, Mathematics and Statistics, 2017-2022
